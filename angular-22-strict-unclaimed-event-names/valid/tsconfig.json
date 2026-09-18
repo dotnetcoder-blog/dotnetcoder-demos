@@ -1,0 +1,10 @@
+{
+  "extends": "../tsconfig.base.json",
+  "compilerOptions": {
+    "outDir": "../dist/valid"
+  },
+  "files": [
+    "app.component.ts",
+    "../shared/save-action.directive.ts"
+  ]
+}

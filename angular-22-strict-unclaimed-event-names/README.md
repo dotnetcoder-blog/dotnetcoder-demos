@@ -6,6 +6,13 @@ This minimal compiler-only project proves both sides of Angular's opt-in
 - `valid/` binds to the directive output `saveClick` and must compile.
 - `invalid/` contains the typo `saveClik` and must fail with `NG8030`.
 
+Article: https://dotnetcoder.com/angular-22-strict-unclaimed-event-names/
+
+## Prerequisites
+
+- Node.js 24 or a current supported Node.js release
+- npm 11 or a compatible npm release
+
 ## Run
 
 ```bash

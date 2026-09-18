@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "candidate_id": "DNC-PROD-20260917-0900",
+  "repository_path": "angular-22-strict-unclaimed-event-names",
+  "source_sha256": "7b8358c2e9d05c2a337138d701bf5341662c5be9c0271c8615522e68655260b9",
+  "article_url": "https://dotnetcoder.com/angular-22-strict-unclaimed-event-names/",
+  "files": [
+    ".gitignore",
+    "invalid/app.component.ts",
+    "invalid/tsconfig.json",
+    "LICENSE",
+    "package-lock.json",
+    "package.json",
+    "README.md",
+    "scripts/expect-ng8030.mjs",
+    "shared/save-action.directive.ts",
+    "tsconfig.base.json",
+    "valid/app.component.ts",
+    "valid/tsconfig.json"
+  ]
+}
